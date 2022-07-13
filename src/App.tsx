@@ -1,4 +1,5 @@
 import { MantineProvider } from '@mantine/core';
+import "./styles/app.css"
 import { Example } from './Example';
 
 type AppProps = {
